@@ -1,0 +1,7 @@
+net\ibizsys\psuac\web\LoginPageBase.class
+net\ibizsys\psuac\web\TicketValidationFilter.class
+net\ibizsys\psuac\web\LoginPage.class
+net\ibizsys\psuac\web\AuthenticationFilter.class
+net\ibizsys\psuac\web\LogoutPage.class
+net\ibizsys\psuac\web\RemoteLoginServlet.class
+net\ibizsys\psuac\web\RemoteLoginPage.class

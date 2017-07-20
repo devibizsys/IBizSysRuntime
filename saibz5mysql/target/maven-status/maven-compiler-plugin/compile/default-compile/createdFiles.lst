@@ -1,0 +1,16 @@
+net\ibizsys\paas\db\impl\MySQL5DataSetImpl.class
+net\ibizsys\paas\db\impl\DB2DBImpl.class
+net\ibizsys\paas\db\impl\OracleDataRowImpl.class
+net\ibizsys\paas\db\impl\OracleDialectImpl.class
+net\ibizsys\paas\db\impl\DB2DataSetImpl.class
+net\ibizsys\paas\db\impl\MySQL5DialectImpl.class
+net\ibizsys\paas\db\impl\DB2DataTableImpl.class
+net\ibizsys\paas\db\impl\OracleDBImpl.class
+net\ibizsys\paas\db\impl\DB2DataRowImpl.class
+net\ibizsys\paas\db\impl\OracleDataSetImpl.class
+net\ibizsys\paas\db\impl\OracleDataTableImpl.class
+net\ibizsys\paas\db\impl\DB2DialectImpl.class
+net\ibizsys\paas\db\impl\MSSQLDBImpl.class
+net\ibizsys\paas\db\impl\MySQL5DBImpl.class
+net\ibizsys\paas\db\impl\MSSQLDialectImpl.class
+net\ibizsys\paas\db\impl\MSSQLDataSetImpl.class
